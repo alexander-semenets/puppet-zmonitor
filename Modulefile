@@ -1,8 +1,0 @@
-name         'thomasvandoren-zabbix'
-version      '0.0.1'
-author       'Thomas Van Doren'
-license      'GPLv2'
-project_page 'http://thomasvandoren.github.com/puppet-zabbix'
-source       'https://github.com/thomasvandoren/puppet-zabbix'
-summary      'A puppet module and report processor for zabbix.'
-description  'A puppet module and report processor for zabbix.'
